@@ -1,5 +1,5 @@
 import numpy as np
-from numpy_statistics import rolling_mean, rolling_std, z_score
+from src.numpy_statistics import rolling_mean, rolling_std, z_score
 
 
 # -----------------------------------
